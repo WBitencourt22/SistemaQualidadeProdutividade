@@ -1,0 +1,118 @@
+
+/*
+*seletor de tag "nome da tag"
+*seletor de id "#"
+*seletor de classe "."
+*seletor universal "*"
+*seletor de agrupamento: h1.h2,p{
+text-align;center; "
+color;red;
+*/
+
+
+.roboto-condensed-uniquifier
+{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:<weight>;
+  font-style:normal;
+}
+h1{
+    font-weight: 500;
+}
+h2{
+    font-weight: 500;
+}
+
+
+header{
+    text-align: center;
+    color: aliceblue;
+    padding: 35px;
+    font-size:xx-large;
+    background-image:url("quality.jpg");
+    border:10px solid black;
+    margin: 0px;
+    text-shadow:2px 2px 4px rgba(0,0,0,0.5);
+
+}
+
+main{
+    text-align:left;
+    background-color: rgb(253, 253, 255);
+    margin-right: 15px;
+    background-image: url(body.png);
+}
+
+body{
+    padding: 25px;
+    margin: 25px;
+    border-style: 10px solid white;
+    background-image: url(cyber-3400789_1280.jpg);   
+}
+#titulo{
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+
+}
+
+section{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+
+footer{
+    color: rgb(248, 245, 245);
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.8); 
+}
+
+#texto{
+    margin-right: 300;}
+.PDCA{
+    display: flex;
+    list-style: none;
+    text-align: justify;
+}
+
+.ferramenta1{
+    border: 3px groove #50bfff;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+.ferramenta2{
+    border: 3px groove #50bfff;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+.ferramenta3{
+    border: 3px groove #50bfff;
+    height: 300px;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+.ferramenta4{
+    border: 3px groove #50bfff;
+    height: 300px;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+.ferramenta5{
+    border: 3px groove #50bfff;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+
+img{
+    float:right;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
